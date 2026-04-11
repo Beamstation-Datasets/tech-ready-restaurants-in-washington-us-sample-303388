@@ -1,0 +1,12 @@
+{
+  "export_job_id": "f9e7e63b-5ea3-4f42-beab-3aa89a640064",
+  "id_short": 303388,
+  "published_at": "2026-04-11T19:21:26Z",
+  "repo_name": "tech-ready-restaurants-in-washington-us-sample-303388",
+  "sample_asset_name": "beamstation_303388_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/303388/beamstation_303388_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_records": 3,
+  "sample_sha256": "3f907ab845bc7f1e7a85132168df614935ff6ecf5c976e39832ebbee0e7c96ba",
+  "sample_size_bytes": 27198,
+  "total_records": 37
+}
